@@ -7,7 +7,7 @@
 >>> model.generate()
 ```
 
-### **[▶ See it live: rohithsing.github.io/my-portfolio](https://rohithsing.github.io/my-portfolio/)**
+### **[▶ See it live: rohithsing.github.io/my-portfolio](https://rohithsing.github.io/Portfolio/)**
 
 Final-year B.Tech CSE (AI & ML) student in Hyderabad · IEEE CCIC 2026 co-author · open to AI/ML, GenAI and data roles
 
